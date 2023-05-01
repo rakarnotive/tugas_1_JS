@@ -1,4 +1,4 @@
-  var _frontName = "Rachmadi";
+  var _firstName = "Rachmadi";
   let _lastName = "Soekarno";
   const _myAge = 24
 
